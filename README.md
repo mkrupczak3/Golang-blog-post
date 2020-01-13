@@ -1,7 +1,7 @@
 # Learning Golang is a decent idea
 So, I've been tooling around on some [free](https://github.com/collabnix?tab=repositories) [online](https://github.com/collabnix/gopherlabs) [resources](https://www.slideshare.net/sangambiradar370/welcome-to-gopherlabs-why-go-golang) lately, and...
 
-Even though I _said_ Rust is the [programming language for the next 40 years](https://matthew.krupczak.org/2019/09/27/a-programming-language-for-the-next-40-years-rust/) due to its ability to enable programmers to write fast and safe "go fast" code at a low level, it seems that _human_ society has decieded to build [a bunch of useful things](https://github.com/mkrupczak3/golang_projects_list/blob/master/README.md) in a garbage-collected language simmiliar to [Java](https://www.java.com/en/) from Google called [Go(lang)](https://golang.org/) (those _b&%#@^*$_).
+Even though I _said_ Rust is the [programming language for the next 40 years](https://matthew.krupczak.org/2019/09/27/a-programming-language-for-the-next-40-years-rust/) due to its ability to enable programmers to write fast and safe "go fast" code at a low level, it seems that _human_ society has decieded to build [a bunch of useful things](https://github.com/mkrupczak3/golang_projects_list/blob/master/README.md) in a garbage-collected language simmiliar to [Java](https://www.java.com/en/) from Google called [Go(lang)](https://golang.org/) (those _&%#@^*$_).
 
 
 It's interesting how quickly Go has gained popularity, and how pervasive it is amongst the [new stack](https://thenewstack.io/) sort of tools that are starting to take over software and enterprise computing patterns (i.e. Docker, Kubernetes, containers, hip new tech, code that mows your lawn and feeds your cat for you, etc.).
