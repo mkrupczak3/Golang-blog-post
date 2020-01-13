@@ -4,7 +4,7 @@ So, I've been tooling around on some [free](https://github.com/collabnix?tab=rep
 Even though I _said_ Rust is the [programming language for the next 40 years](https://matthew.krupczak.org/2019/09/27/a-programming-language-for-the-next-40-years-rust/) due to its ability to enable programmers to write fast and safe "go fast" code at a low level, it seems that _human_ society has decieded to build [a bunch of useful things](https://github.com/mkrupczak3/golang_projects_list/blob/master/README.md) in a garbage-collected language simmiliar to [Java](https://www.java.com/en/) from Google called [Go(lang)](https://golang.org/) (those _&%#@^*$_).
 
 
-It's interesting how quickly Go has gained popularity, and how pervasive it is amongst the [new stack](https://thenewstack.io/) sort of tools that are starting to take over software and enterprise computing patterns (i.e. Docker, Kubernetes, containers, hip new tech, code that mows your lawn and walks your dog, etc.).
+It's interesting how quickly Go has gained popularity, and how pervasive it is amongst the [new stack](https://thenewstack.io/) sort of tools that are starting to take over software and enterprise computing patterns (i.e. [Docker, Kubernetes, containers](https://matthew.krupczak.org/2020/01/01/maturity-of-the-container-ecosystem/), hip new tech, code that mows your lawn and walks your dog, etc.).
 
 So why is it so popular, even though it's supposedly an [objectively "bad" language](https://web.archive.org/web/20190718142325/https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/)?
 
